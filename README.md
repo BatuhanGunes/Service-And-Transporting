@@ -1,2 +1,7 @@
 # TransportingDataBase
-Service and transporting database interface
+Service and transporting interface and database
+
+
+Used technologies:
+-MSSQL
+-C#
